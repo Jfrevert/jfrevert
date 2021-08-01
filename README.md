@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is my old Github. I've moved over to [justinFrevert](https://github.com/justinFrevert).
 
 <!--
 **Jfrevert/jfrevert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
